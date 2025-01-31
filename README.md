@@ -1,5 +1,5 @@
 # Bike Rental Dashboard
-## Setup Environment - Anaconda
+## Setup Environment
  1. Clone repository ini:
     git clone https://github.com/daffaknf/submission_dicoding1_DC.git
   
