@@ -1,0 +1,51 @@
+Category,Value,Description,Subcategory
+Fall,5644.303191489362,Average Rentals by Season,
+Spring,2604.1325966850827,Average Rentals by Season,
+Summer,4992.33152173913,Average Rentals by Season,
+Winter,4728.162921348315,Average Rentals by Season,
+0,53.89807162534435,Average Rentals by Hour,
+1,33.3756906077348,Average Rentals by Hour,
+2,22.86993006993007,Average Rentals by Hour,
+3,11.727403156384504,Average Rentals by Hour,
+4,6.352941176470588,Average Rentals by Hour,
+5,19.88981868898187,Average Rentals by Hour,
+6,76.04413793103448,Average Rentals by Hour,
+7,212.0646492434663,Average Rentals by Hour,
+8,359.01100412654745,Average Rentals by Hour,
+9,219.30949105914718,Average Rentals by Hour,
+10,173.6685006877579,Average Rentals by Hour,
+11,208.1430536451169,Average Rentals by Hour,
+12,253.31593406593407,Average Rentals by Hour,
+13,253.66117969821673,Average Rentals by Hour,
+14,240.94924554183814,Average Rentals by Hour,
+15,251.2331961591221,Average Rentals by Hour,
+16,311.9835616438356,Average Rentals by Hour,
+17,461.45205479452056,Average Rentals by Hour,
+18,425.510989010989,Average Rentals by Hour,
+19,311.52335164835165,Average Rentals by Hour,
+20,226.03021978021977,Average Rentals by Hour,
+21,172.31456043956044,Average Rentals by Hour,
+22,131.33516483516485,Average Rentals by Hour,
+23,87.83104395604396,Average Rentals by Hour,
+Non-Working Day,4330.168831168831,Average Rentals by Day Type,
+Working Day,4584.82,Average Rentals by Day Type,
+temp,1.0,Correlation Between Variables,temp
+temp,-0.0726863360608219,Correlation Between Variables,hum
+temp,-0.02312526248533279,Correlation Between Variables,windspeed
+temp,0.4047722757786578,Correlation Between Variables,cnt
+hum,-0.0726863360608219,Correlation Between Variables,temp
+hum,1.0,Correlation Between Variables,hum
+hum,-0.28962609025432506,Correlation Between Variables,windspeed
+hum,-0.32879325727083114,Correlation Between Variables,cnt
+windspeed,-0.02312526248533279,Correlation Between Variables,temp
+windspeed,-0.28962609025432506,Correlation Between Variables,hum
+windspeed,1.0,Correlation Between Variables,windspeed
+windspeed,0.09323378392612537,Correlation Between Variables,cnt
+cnt,0.4047722757786578,Correlation Between Variables,temp
+cnt,-0.32879325727083114,Correlation Between Variables,hum
+cnt,0.09323378392612537,Correlation Between Variables,windspeed
+cnt,1.0,Correlation Between Variables,cnt
+Casual,848.1764705882352,Average Usage (Daily and Hourly),Daily Average
+Registered,3656.172366621067,Average Usage (Daily and Hourly),Daily Average
+Casual,35.67621842453536,Average Usage (Daily and Hourly),Hourly Average
+Registered,153.78686920996606,Average Usage (Daily and Hourly),Hourly Average
